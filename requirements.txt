@@ -1,3 +1,5 @@
 fastapi
 uvicorn
-pymodbus
+pymodbus==3.6.8
+pydantic
+paho-mqtt
